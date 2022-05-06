@@ -1,3 +1,4 @@
+### MNIST
 MNIST is the de facto " hello world" dataset of computer vision. This classic data set of handwritten images has served as the basis for benchmarking  classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
 
 In this note book our goal is to correctly identify digits from a dataset of thousands of handwritten images.
